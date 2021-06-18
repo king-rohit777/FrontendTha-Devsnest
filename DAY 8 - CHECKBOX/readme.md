@@ -1,5 +1,3 @@
-<div align="center">
-    <img src="/screenshots/screen1.jpg" width="400px"</img> 
-</div>
+## THA 8 assignmnet
 
-![ScreenShot](screenshot.png)
+![ScreenShot](screenshot.PNG)
