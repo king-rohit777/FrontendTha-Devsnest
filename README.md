@@ -1,5 +1,11 @@
-# FrontendTha-Devsnest
-Day wise frontend THA of DEVSNEST
+<!-- # FrontendTha-Devsnest
+Day wise frontend THA of DEVSNEST -->
+
+<h2>
+    <samp> D E V S N E S T &nbsp;-&nbsp; F R O N T E N D</samp>
+    <img align="right" src="https://github.com/thisiskartikgupta/Devsnest-Frontend/blob/main/readme_files/logo_devsnest.png" alt="Devsnest doc" width="120px" />
+</h2>
+<br/>
 
 
 <h3 align="center">
