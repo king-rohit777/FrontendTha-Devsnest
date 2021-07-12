@@ -1,0 +1,26 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.appStyle {
+  display: inline-block;
+  align-items: center;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 50px;
+  background-color: rgb(230, 228, 114);
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 30px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 200%;
+  color: rgb(206, 47, 19);
+}
