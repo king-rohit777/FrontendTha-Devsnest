@@ -90,7 +90,7 @@ var Cylinder = class {
     }
 
     calcVolume() {
-        return (Math.PI * this.radius * this.radius * this.height);
+        return (Math.PI * this.radius * this.radius * this.height);  
     }
 
 };
