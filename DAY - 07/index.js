@@ -11,7 +11,7 @@ var student = {
 console.log(student.name);   
 console.log(student.rollno);
 console.log(student.sclass);
-
+  
 
 // 2. Write a JavaScript program to delete the rollno property from the following object. 
 // Also print the object before or after deleting the property. 
