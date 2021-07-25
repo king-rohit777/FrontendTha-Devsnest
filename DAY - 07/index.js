@@ -8,7 +8,7 @@ var student = {
     rollno: 12
 };
 
-console.log(student.name);
+console.log(student.name);   
 console.log(student.rollno);
 console.log(student.sclass);
 
