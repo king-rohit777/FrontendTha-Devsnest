@@ -9,7 +9,7 @@ Day wise frontend THA of DEVSNEST -->
 
 
 <h3 align="center">
-    <strong>TAKE HOME ASSIGNMENTS(THA)</strong>          
+    <strong>TAKE HOME ASSIGNMENTS(THA)</strong>                  
 </h3>
 
 ---
