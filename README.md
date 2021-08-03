@@ -13,7 +13,7 @@ Day wise frontend THA of DEVSNEST -->
 </h3>
 
 ---
-
+<!-- 
 | __DAY__ | __TOPIC__ | __THA__ | __REPO LINK__ | __LIVE LINK__ |
 | --- | --- | --- | --- | --- |
 **01** | _Introduction to HTML_ | ```Create a letter template as per given image``` | [**THA01**](https://github.com/thisiskartikgupta/Devsnest-Frontend/tree/main/Day%2001%20-%20Introduction%20to%20HTML) |
@@ -36,4 +36,4 @@ Day wise frontend THA of DEVSNEST -->
 **18** | _Inline Styles and Reusable Components_ | ```Make a chess grid using resuable components``` | [**THA18**](https://github.com/thisiskartikgupta/Devsnest-Frontend/tree/main/Day%2018%20-%20Inline%20Styles%20and%20Reusable%20Components/THA/chess-grid-2) | [_LIVE SITE (Netlify)_](https://chess-grid-2-tikg.netlify.app/)
 **19** | _Class Components, Lifecycle Methods, Webpacks_ | ```Make a React app having 4 counters with each managing their own state``` | [**THA19**](https://github.com/thisiskartikgupta/Devsnest-Frontend/tree/main/Day%2019%20-%20Class%20Components%2C%20Lifecycle%20Methods%20and%20%20Webpacks/THA) | [_LIVE_SITE (Cloudflare)_](https://four-counters.thisiskartikgupta.workers.dev/)
 
----
+--- -->
