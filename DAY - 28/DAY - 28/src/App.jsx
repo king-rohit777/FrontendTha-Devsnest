@@ -41,7 +41,7 @@ function App() {
                                                     <span className="unit">KM</span></div>
                                             </div>
                                             <div className="col">
-                                                <div className="title">Wind Now</div>
+                                                <div className="title">Humidity</div>
                                                 <div className="data">{placeData.current.humidity}
                                                     <span className="unit">%</span></div>
                                             </div>
