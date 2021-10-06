@@ -7,6 +7,7 @@ Day wise frontend THA of DEVSNEST -->
 </h2>
 <br/>
 
+<img align="left" src="https://user-images.githubusercontent.com/63205697/130860361-1d564227-15cf-4324-a6ab-1c46bf2481dd.png"> </img>
 
 <h3 align="center">
     <strong>TAKE HOME ASSIGNMENTS(THA)</strong>                  
